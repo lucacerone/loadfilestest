@@ -1,0 +1,11 @@
+Package: loadfiletest
+Type: Package
+Title: Dummy package to show files related issues you might encounter in your packages.
+Version: 0.1.0
+Author: Luca Cerone
+Maintainer: Luca Cerone <contact@lucacerone.net>
+Description: Simple dummy package to show some quirks you might encounter.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
